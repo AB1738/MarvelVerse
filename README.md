@@ -19,7 +19,7 @@ A Marvel Character Finder web application built using **React** and the **Marvel
 
 ## Demo
 
--> Check out the live app here: [Marvel Demo](https://marvelverse.netlify.app/)
+-> Check out the live app here: [Marvel Demo](https://marverse.netlify.app/)
 
 
 
