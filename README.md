@@ -16,9 +16,10 @@ A Marvel Character Finder web application built using **React** and the **Marvel
 - **Marvel API** (for fetching character data)
 - **CSS** (for styling)
 
-- ## Demo
 
-<p align='center'>Check out the live app here: [MarvelVerse Demo](https://)</p>
+## Demo
+
+-> Check out the live app here: [Marvel Demo](https://marvelverse.netlify.app/)
 
 
 
