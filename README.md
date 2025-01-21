@@ -1,5 +1,5 @@
 
-<h1 align="center">MarvelVerse</h1>
+<h1 align="center">MarvelVerse</h1> 
 
 A Marvel Character Finder web application built using **React** and the **Marvel API**. This app allows users to search for Marvel characters and view their details.
 
