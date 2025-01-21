@@ -1,0 +1,12 @@
+.nav{
+    height: 10vh;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    background: rgba(178,34,34,1);
+    color: white;
+    text-align: center;
+    z-index: 6;
+    /* border-bottom: 1px solid black; */
+}
